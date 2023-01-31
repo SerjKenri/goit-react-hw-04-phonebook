@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    font-size: 2rem;
+    align-items: center;
+}
+
+.sectionStyle {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
